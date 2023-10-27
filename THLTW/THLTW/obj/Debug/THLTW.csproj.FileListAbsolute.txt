@@ -77,3 +77,7 @@ C:\Users\SV\Documents\GitHub\THLTW\THLTW\THLTW\obj\Debug\THLTW.csproj.CoreCompil
 C:\Users\SV\Documents\GitHub\THLTW\THLTW\THLTW\obj\Debug\THLTW.csproj.CopyComplete
 C:\Users\SV\Documents\GitHub\THLTW\THLTW\THLTW\obj\Debug\THLTW.dll
 C:\Users\SV\Documents\GitHub\THLTW\THLTW\THLTW\obj\Debug\THLTW.pdb
+C:\Users\SV\Documents\GitHub\THLTW\THLTW\THLTW\bin\EntityFramework.dll
+C:\Users\SV\Documents\GitHub\THLTW\THLTW\THLTW\bin\EntityFramework.SqlServer.dll
+C:\Users\SV\Documents\GitHub\THLTW\THLTW\THLTW\bin\EntityFramework.xml
+C:\Users\SV\Documents\GitHub\THLTW\THLTW\THLTW\bin\EntityFramework.SqlServer.xml
