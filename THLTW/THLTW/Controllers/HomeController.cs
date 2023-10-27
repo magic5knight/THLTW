@@ -36,5 +36,15 @@ namespace THLTW.Controllers
         {
             return View();
         }
+
+        public ActionResult Dangky()
+        {
+            return View();
+        }
+
+        public ActionResult DesktopComputer()
+        {
+            return View();
+        }
     }
 }
