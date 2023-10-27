@@ -15,7 +15,7 @@
 }
 
 #div-left {
-    width: auto;
+    width: 25%;
     height: auto;
     font-family: Arial;
     font-size: small;
@@ -26,7 +26,7 @@
     }
 
 #div-containt {
-    width: auto;
+    width: 75%;
     height: auto;
     background-color: antiquewhite;
 }
