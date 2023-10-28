@@ -27,6 +27,7 @@
     <Property Name="PhoneCus" Type="String" MaxLength="15" FixedLength="false" Unicode="true" />
     <Property Name="EmailCus" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
     <NavigationProperty Name="OrderProes" Relationship="Self.FK__OrderPro__IDCus__2D27B809" FromRole="Customer" ToRole="OrderPro" />
+    <Property Name="PassCus" Type="String" Nullable="false" MaxLength="50" FixedLength="true" Unicode="true" />
   </EntityType>
   <EntityType Name="OrderDetail">
     <Key>
