@@ -1,0 +1,13 @@
+﻿@using THLTW.Models
+@{
+    DBSportStoreEntities db = new DBSportStoreEntities();
+    var categories = db.Categories.ToList();
+}
+
+<h3>Danh mục sản phẩm</h3>
+<ul style="list-style: none">
+    @foreach (var category in categories)
+    {
+        <li>@Html.ActionLink(category.NameCate, "ProductForCategory", "CustomerProducts", new { id = category.Id }, null)</li>
+    }
+</ul>

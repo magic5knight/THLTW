@@ -12,6 +12,7 @@
     width: auto;
     display: flex;
     flex-direction: row;
+    margin: 20px 0 20px 0;
 }
 
 #div-left {
