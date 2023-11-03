@@ -114,6 +114,7 @@ CREATE TABLE [dbo].[Customer](
 	[NameCus] [nvarchar](max) NULL,
 	[PhoneCus] [nvarchar](15) NULL,
 	[EmailCus] [nvarchar](max) NULL,
+	[PassCus] [char](20) NULL,
 PRIMARY KEY CLUSTERED 
 (
 	[IDCus] ASC
